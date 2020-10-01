@@ -13,5 +13,10 @@
     "react-dom": "^16.13.1",
     "swr": "0.2.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.8.10"
+  }
 }
